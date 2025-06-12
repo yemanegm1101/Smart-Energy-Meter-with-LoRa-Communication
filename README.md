@@ -124,8 +124,16 @@ The system includes calibration constants that may need adjustment based on your
 - `Send_lora_RFM95W_868S2.jpg`: Image of the sender circuit
 - `Receive_lora_RFM95W_868S2.jpg`: Image of the receiver circuit
 
-## Future Improvements
+# Note on LoRa Simulation
+The LoRa module (RFM95) is not natively supported in Proteus for accurate wireless simulation. However, in this project, the LoRa module is implemented as a conceptual design. The Proteus schematic reflects the intended wiring and interfacing strategy, but actual LoRa communication testing must be done on real hardware.
 
+## Troubleshooting
+If LoRa.begin() fails, verify:
+- Correct frequency band matches your RFM95 module
+- CS, RST, DIO0 pins match LoRa.setPins() settings
+- 3.3 V regulator can supply ≥120 mA peak
+
+## Future Improvements
 - Add data logging capability to store measurements
 - Implement a web interface for remote monitoring
 - Add more sensors for comprehensive power quality analysis
