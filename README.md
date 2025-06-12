@@ -58,7 +58,7 @@ This project implements a smart energy meter that measures voltage, current, pow
 - **LoRa Module**:
   - NSS: 10
   - RESET: 9
-  - DIO0: 2
+  - DIO2: 2
   - MOSI: 11
   - MISO: 12
   - SCK: 13
