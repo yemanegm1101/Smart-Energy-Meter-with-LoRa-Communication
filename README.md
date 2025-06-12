@@ -148,12 +148,18 @@ This project is open source and available under the MIT License.
 Developed as part of an educational project on IoT and energy monitoring systems.
 
 ###  LoRa Module License
-This project uses the RFM95 LoRa module symbols & footprint models provided by SnapMagic Search, Inc. By using these models in your PCB or schematic, you agree to the SnapMagic Search terms:
+This project uses the RFM95 LoRa module symbols & footprint models provided by SnapMagic https://www.snapeda.com/about/import/#Proteus Search, Inc. By using these models in your PCB or schematic, you agree to the SnapMagic Search terms.
 
 #### Design License
 You and your sub-licensees are hereby licensed to design, manufacture, use and distribute circuit board designs and circuit boards formed by combining Models provided by SnapMagic Search with other circuit elements of your choosing. You may convey such combinations under licensing terms of your choice.
 Individual Models remain the intellectual property of SnapMagic Search, Inc. You shall not:
-Sell, assign, lease, lend, rent, issue, sublicense, or otherwise distribute the Models; or Remove, alter, or conceal any copyright, trademark, or proprietary rights notices contained in the Models. Once integrated into your PCB design, Models may be modified to suit your project requirements. Limitation of Liability In no event will SnapMagic Search or its affiliates be liable for any indirect, special, incidental, punitive, or consequential damages arising out of or in connection with this Agreement.
+   ##### 1. Sell, assign, lease, lend, rent, issue, sublicense, or otherwise distribute the Models; or
+   ###### 2. Remove, alter, or conceal any copyright, trademark, or proprietary rights notices contained in the Models. 
+   Once integrated into your PCB design, Models may be modified to suit your project requirements.
+   ##### Limitation of Liability 
+   In no event will SnapMagic Search or its affiliates be liable for any indirect, special, incidental, punitive, or consequential damages arising out of or in connection with this Agreement.
+   
+###### Refer to the original license text provided by SnapMagic Search for full details.
 
 # Contributing
 
