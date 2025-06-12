@@ -1,4 +1,4 @@
-# Smart-Energy-Meter-with-LoRa-Communication
+# Smart Energy Meter With LoRa Communication
 A complete smart energy metering system with wireless LoRa communication, built with Arduino Nano and simulated in Proteus.
 ![Image](https://github.com/user-attachments/assets/fe11b4bc-48e2-4441-9ed7-6c122f241089)
 ![Image](https://github.com/user-attachments/assets/1204392b-1575-412e-b2bb-04f52af7a580)
