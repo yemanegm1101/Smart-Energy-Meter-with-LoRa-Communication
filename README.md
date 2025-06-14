@@ -140,10 +140,6 @@ If LoRa.begin() fails, verify:
 - Develop a mobile app for real-time monitoring
 - Implement bidirectional communication for remote control
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Credits
 Developed as part of an educational project on IoT and energy monitoring systems.
 
